@@ -9,7 +9,6 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 2. OpenCV
 
 ## ALGORITHM:
-
 ### Step 1:
 Load the necessary packages.
 
@@ -80,7 +79,6 @@ for i in range(0,9):
 ![image](https://user-images.githubusercontent.com/70213227/169490536-70abdd05-c85d-4007-9ff8-8f2d1d03b658.png)
 ![image](https://user-images.githubusercontent.com/70213227/169490573-43993450-9125-4924-acb6-c4106fa54808.png)
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Adaptive Thresholding
 ![image](https://user-images.githubusercontent.com/70213227/169490676-9af1d272-06b5-4754-9c19-95043fae5ce0.png)
